@@ -1,0 +1,64 @@
+body{
+    background-color:#fad5c3;
+    font-family: Palatino, URW Palladio L, serif;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: Palatino, URW Palladio L, serif;
+    border: solid;
+    background-color: #172f73;
+    width: 800px;
+    margin: 0 auto;
+    color: #0362fc;
+}
+
+.main-heading{
+    font-size: 50px;
+    border: solid;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fac3f1;
+    font-family: Palatino, URW Palladio L, serif;
+    text-align: center;
+    border-style: double;
+    border-width: thick;
+    color:#b6faaf;
+
+
+}
+
+.sub-heading{
+    text-align: center;
+    font-size: 40px;
+    font-family: Palatino, URW Palladio L, serif;
+    color: #f582e2;
+    text-decoration: underline;
+
+}
+.grocery-section{
+    display: inline-flex;
+}
+div {
+    border: solid;
+    width: 300px;
+    height: 300x;
+    padding: 50px;
+    background-color: #fffdc4;
+    border-style: double;
+    border-width: thick;
+    margin: 30px;
+    
+}
+.ingredients {
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    display: block;  
+}
